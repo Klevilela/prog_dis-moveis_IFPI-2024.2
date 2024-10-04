@@ -12,8 +12,4 @@ int soma(int a, int b) {
 }
 
 
-class Pessoa {
-  String nome;
-  int idade;
 
-}
